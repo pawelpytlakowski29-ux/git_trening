@@ -6,5 +6,6 @@ int main() {
         printf(i);
     }
     printf("\n");
+    printf("\nAlgorytm");
     return 0;
 }
