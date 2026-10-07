@@ -1,2 +1,2 @@
-# Program-Bluzy-Szkolne
-Program do sprzedaży bluz szkolnych
+# To readme nie ma żadnego znaczenia
+Stworzyłem je tylko po to, by zrozumieć jak działa...
