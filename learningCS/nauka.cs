@@ -45,7 +45,7 @@ internal class Program
         }
             else if (Ans == "2")
         {
-            var numbers = new List<int> { 1, 2, 3, 4 };
+            var numbers = new List<int> { 1, 2, 10, 12, 20, 31 };
             PrintTable(numbers);
 
             numbers.Add(5);
