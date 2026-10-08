@@ -36,13 +36,8 @@ internal class Program
 
     public static void Menu()
     {
-<<<<<<< HEAD
         Console.Write("1.Sprawdzic czy jestes pelnoletni\n2.Zobaczyc jak działają listy\nCo chcesz zrobić: ");
         string Ans = Console.ReadLine()!;
-=======
-        var numbers = new List<int> { 1, 2, 3, 5, 7 };
-        PrintTable(numbers);
->>>>>>> main
 
             if (Ans == "1")
         {
@@ -78,17 +73,11 @@ internal class Program
             
             Console.WriteLine();
             numbers.Clear();
-
         }
-
     }
-<<<<<<< HEAD
 
     private static void Main(string[] args)
     {
         Menu();
     }
 }
-=======
-}
->>>>>>> main
