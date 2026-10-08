@@ -1,0 +1,12 @@
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/bin/Release/net10.0/TemperatureConverter.Lib.deps.json
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/bin/Release/net10.0/TemperatureConverter.Lib.dll
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/bin/Release/net10.0/TemperatureConverter.Lib.pdb
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/TemperatureConverter.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/TemperatureConverter.Lib.AssemblyInfoInputs.cache
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/TemperatureConverter.Lib.AssemblyInfo.cs
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/TemperatureConverter.Lib.csproj.CoreCompileInputs.cache
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/TemperatureConverter.Lib.sourcelink.json
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/TemperatureConverter.Lib.dll
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/refint/TemperatureConverter.Lib.dll
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/TemperatureConverter.Lib.pdb
+/home/pawel/nauka_gita/Zadanie_1/TemperatureConverter.Lib/obj/Release/net10.0/ref/TemperatureConverter.Lib.dll

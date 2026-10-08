@@ -1,0 +1,7 @@
+/home/pawel/nauka_gita/Zadanie_1/GotowaAplikacja/TemperatureConverter.App
+/home/pawel/nauka_gita/Zadanie_1/GotowaAplikacja/TemperatureConverter.App.dll
+/home/pawel/nauka_gita/Zadanie_1/GotowaAplikacja/TemperatureConverter.App.deps.json
+/home/pawel/nauka_gita/Zadanie_1/GotowaAplikacja/TemperatureConverter.App.runtimeconfig.json
+/home/pawel/nauka_gita/Zadanie_1/GotowaAplikacja/TemperatureConverter.App.pdb
+/home/pawel/nauka_gita/Zadanie_1/GotowaAplikacja/TemperatureConverter.Lib.dll
+/home/pawel/nauka_gita/Zadanie_1/GotowaAplikacja/TemperatureConverter.Lib.pdb
