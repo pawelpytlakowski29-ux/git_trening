@@ -36,7 +36,7 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        var numbers = new List<int> { 1, 2, 3, 4 };
+        var numbers = new List<int> { 1, 2, 3, 5, 7 };
         PrintTable(numbers);
 
         numbers.Add(5);
