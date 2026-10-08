@@ -34,36 +34,52 @@ internal class Program
         }
     }
 
+    public static void Menu()
+    {
+        Console.Write("1.Sprawdzic czy jestes pelnoletni\n2.Zobaczyc jak działają listy\nCo chcesz zrobić: ");
+        string Ans = Console.ReadLine()!;
+
+            if (Ans == "1")
+        {
+            ExamineAge();
+        }
+            else if (Ans == "2")
+        {
+            var numbers = new List<int> { 1, 2, 3, 4 };
+            PrintTable(numbers);
+
+            numbers.Add(5);
+            PrintTable(numbers);
+            
+            numbers.Remove(3);
+            PrintTable(numbers);
+
+            numbers[1] = 10;
+            PrintTable(numbers);
+
+            var anotherList = new List<int>(numbers);
+            
+            foreach (var number in numbers)
+            {
+                Console.Write($"{number} ");
+            }
+            
+            Console.WriteLine($"\n{numbers.Count}");
+
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                Console.Write($"{numbers[i]} ");
+            }
+            
+            Console.WriteLine();
+            numbers.Clear();
+
+        }
+
+    }
+
     private static void Main(string[] args)
     {
-        var numbers = new List<int> { 1, 2, 3, 4 };
-        PrintTable(numbers);
-
-        numbers.Add(5);
-        PrintTable(numbers);
-        
-        numbers.Remove(3);
-        PrintTable(numbers);
-
-        numbers[1] = 10;
-        PrintTable(numbers);
-
-        var anotherList = new List<int>(numbers);
-        
-        foreach (var number in numbers)
-        {
-            Console.Write($"{number} ");
-        }
-        
-        Console.WriteLine($"\n{numbers.Count}");
-
-        for (int i = 0; i < numbers.Count; i++)
-        {
-            Console.Write($"{numbers[i]} ");
-        }
-        
-        Console.WriteLine();
-        numbers.Clear();
-
+        Menu();
     }
 }
